@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YouTube Music for VS Code
 
 This extension allows you to search and play YouTube music directly from within VS Code.
@@ -57,3 +58,7 @@ This extension contributes the following settings:
 * [FFmpeg official website](https://ffmpeg.org/)
 
 **Enjoy!**
+=======
+# VSMusic
+An Incomplete music system for vscode. It works ok.
+>>>>>>> 29ef4ff8e0400bc5012dc3ec125740edf4e5cba7
